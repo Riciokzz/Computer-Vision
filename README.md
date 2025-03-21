@@ -28,7 +28,7 @@ The main dataset can be downloaded from [Kaggle](https://www.kaggle.com/maysee/m
 
 ## Requirements for the project
 
-To install all necessary libraries use `pip install -r requirements.txt`
+To install all necessary libraries use: `pip install -r requirements.txt`
 
 Mushrooms folder with all subclasses should be put in the `data` folder.
 
